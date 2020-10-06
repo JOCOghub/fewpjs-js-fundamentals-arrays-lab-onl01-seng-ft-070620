@@ -1,7 +1,6 @@
 const pets = ["Milo", "Otis", "Garfield"];
 
 
-append.append('Odie')
-prepend.prepend('Odie')
-removelast.pop()
-removeFirst.shift()
+pets.append('Odie')
+pets.prepend('Odie')
+pets.pop()pets.shift()
